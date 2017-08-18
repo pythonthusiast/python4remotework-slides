@@ -3,9 +3,7 @@
 
 <span style="color:gray">Eko S. Wibowo</span>
 <br/>
-<span style="color:gray">Jogjakarta, 17 Agustus 2017</span>
-<br/>
-<span style="color:gray">Hak Cipta http://coderdojo.id</span>
+<span style="color:gray">Hak Cipta [Pythonthusiast](http://coderdojo.id)</span>
 ---
 Ini adalah materi semua yang Anda butuhkan untuk berkarir dari rumah ke perusahaan-perusahaan luar negeri yang menggunakan Python sebagai platform IT-nya
 ---
