@@ -5,7 +5,7 @@
 <br/>
 <span style="color:gray">Hak Cipta [Pythonthusiast](http://coderdojo.id)</span>
 ---
-Ini adalah materi semua yang Anda butuhkan untuk berkarir dari rumah ke perusahaan-perusahaan luar negeri yang menggunakan Python sebagai platform IT-nya
+Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah ke perusahaan-perusahaan luar negeri yang menggunakan Python sebagai platform IT-nya, melalui berbagai platform remote work semisal Upwork.com, RemoteOK.io dan RemotePython.com
 ---
 ## Understanding Tiered Architecture
 * Understanding The Concept of Tiered Architecture
