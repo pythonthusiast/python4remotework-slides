@@ -27,6 +27,7 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Aplikasi memberi output umumnya pada tampilan console secara langsung, atau melalui file LOG | 
 - Lebih sering dipergunakan DevOps/Admin untuk tugas-tugas automasi yang dijalankan di terminal atau di latar belakang (daemond) |  
 - Umumnya, lebih mudah dikembangkan, namun interaktivitas bisa sangat terbatas |
+---
 - Memiliki kejayaan pada jamannya, karena dahulu semua aplikasi (DOS) adalah aplikasi CLI |
 - Contoh: scraping, monitoring resources web, dsb. |
 - Umumnya semua Package Python bisa berjalan sebagai aplikasi console, kecuali secara spesifik disebutkan hanya berjalan di web/mobile. |
@@ -38,6 +39,7 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Menggunakan antar muka grafis yang menyatu dengan sistem operasi atau cross platform |
 - Sangat mudah dipakai, karena pengguna berinteraksi dengan elemen-elemen grafis yang intuitif seperti tombol, text input dan lain sebagainya |
 - Mudah dikembangkan karena berbagai tool sudah tersedia, berdasarkan framework yang dipakai |
+---
 - Namun, bisa terjadi vendor lock-in. Karena skill di .NET misalnya, tidak bisa mudah dipindah ke Java |
 - Desktop terbatas pengguna pada tempat komputer diinstall, sehingga aplikasi bergerak ke Web |
 - Contoh: DropBox, Blender, GIMP, dsb. |
@@ -50,6 +52,7 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Secara umum dibagi kedalam frontend dan backend, python berada di posisi Backend |
 - Perkembangan web dari Web 1.0 ke Web 2.0 |
 - Sejak 2016, pergerakan aplikasi ke arah mobile, dikenal dengan istilah mobile first, python sebagai backend API |
+---
 - Contoh: Instagram, Pinterest, Quora, dsb |
 - Package yang dipakai: Django, Flask, Pylons/Pyramids |
 - Catatan penting: Web adalah aplikasi paling rumit dari seluruh jenis aplikasi |
@@ -60,6 +63,7 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Dua platform utama: Android dan iOS |
 - Selalu disarankan mengembangkan aplikasi mobile dalam bentuk native-nya |
 - Python memiliki support ke mobile, namun --menurut saya-- tidak menarik |
+---
 - Aplikasi mobile dengan Python |
 - Contoh: Game-game Kivy di Playstore, ScramPhoto (discontinued) | 
 - Package yang dipakai: Kivy, PyGame Subset for Android (pgs4a) |
