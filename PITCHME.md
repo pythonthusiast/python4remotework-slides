@@ -28,10 +28,9 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Lebih sering dipergunakan DevOps/Admin untuk tugas-tugas automasi yang dijalankan di terminal atau di latar belakang (daemond) |  
 - Umumnya, lebih mudah dikembangkan, namun interaktivitas bisa sangat terbatas |
 - Memiliki kejayaan pada jamannya, karena dahulu semua aplikasi (DOS) adalah aplikasi CLI |
-- Aplikasi CLI dengan Python |
--- Contoh: scraping, monitoring resources web, dsb. |
--- Umumnya semua Package Python bisa berjalan sebagai aplikasi console, kecuali secara spesifik disebutkan hanya berjalan di web/mobile. |
--- Produk-produk commercial, hampir bisa dipastikan selalu menyediakan Python sebagai interface CLI-nya |
+- Contoh: scraping, monitoring resources web, dsb. |
+- Umumnya semua Package Python bisa berjalan sebagai aplikasi console, kecuali secara spesifik disebutkan hanya berjalan di web/mobile. |
+- Produk-produk commercial, hampir bisa dipastikan selalu menyediakan Python sebagai interface CLI-nya |
 
 ---
 ### Desktop Application
@@ -41,10 +40,9 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Mudah dikembangkan karena berbagai tool sudah tersedia, berdasarkan framework yang dipakai |
 - Namun, bisa terjadi vendor lock-in. Karena skill di .NET misalnya, tidak bisa mudah dipindah ke Java |
 - Desktop terbatas pengguna pada tempat komputer diinstall, sehingga aplikasi bergerak ke Web |
-- Aplikasi desktop dengan Python |
--- Contoh: DropBox, Blender, GIMP, dsb. |
--- Package/framework yang dipakai: PyQt, WxWidget, Kivy, TkInter, dsb |
--- Kepopuleran aplikasi Python desktop akan selamanya kalah dengan aplikasi Native | 
+- Contoh: DropBox, Blender, GIMP, dsb. |
+- Package/framework yang dipakai: PyQt, WxWidget, Kivy, TkInter, dsb |
+- Kepopuleran aplikasi Python desktop akan selamanya kalah dengan aplikasi Native | 
 
 ---
 ### Web Application
@@ -52,9 +50,8 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Secara umum dibagi kedalam frontend dan backend, python berada di posisi Backend |
 - Perkembangan web dari Web 1.0 ke Web 2.0 |
 - Sejak 2016, pergerakan aplikasi ke arah mobile, dikenal dengan istilah mobile first, python sebagai backend API |
-- Aplikasi web dengan Python |
--- Contoh: Instagram, Pinterest, Quora, dsb |
--- Package yang dipakai: Django, Flask, Pylons/Pyramids |
+- Contoh: Instagram, Pinterest, Quora, dsb |
+- Package yang dipakai: Django, Flask, Pylons/Pyramids |
 - Catatan penting: Web adalah aplikasi paling rumit dari seluruh jenis aplikasi |
  
 ---
@@ -64,5 +61,5 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Selalu disarankan mengembangkan aplikasi mobile dalam bentuk native-nya |
 - Python memiliki support ke mobile, namun --menurut saya-- tidak menarik |
 - Aplikasi mobile dengan Python |
--- Contoh: Game-game Kivy di Playstore, ScramPhoto (discontinued) | 
--- Package yang dipakai: Kivy, PyGame Subset for Android (pgs4a) |
+- Contoh: Game-game Kivy di Playstore, ScramPhoto (discontinued) | 
+- Package yang dipakai: Kivy, PyGame Subset for Android (pgs4a) |
