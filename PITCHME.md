@@ -67,3 +67,19 @@ Ini adalah semua materi essensial yang Anda butuhkan untuk berkarir dari rumah k
 - Aplikasi mobile dengan Python |
 - Contoh: Game-game Kivy di Playstore, ScramPhoto (discontinued) | 
 - Package yang dipakai: Kivy, PyGame Subset for Android (pgs4a) |
+---
+
+### FUNDAMENTAL WEB APPLICATION DENGAN FLASK
+- Flask adalah framework web Python yang kompak: kecil dan Anda bisa mulai dari 0 |
+- Contoh web populer yang dibangun dengan Flask adalah Pinterest |
+- Flask cocok bertindak sebagai backend, mensupply API bagi frontend Javascript (React contohnya) atau mobile (Android/iOS)|
+--- 
+### ESENSI FLASK
+- Route. http://blablabla.com/signup |
+- View. Page yang muncul saat signup dibuka dibrowser |
+- Model. Data yang diproses oleh kode pada Route dan yang ditampilkan di View |
+---
+### MEMULAI FLASK 
+- Lesson ini, tidak akan ditujukan untuk membuat real world site |
+- Namun sekedar cukup untuk menunjukkan semua esensi Flask yang sudah disebutkan di atas |
+- Lesson selanjutnya akan menunjukkan bagaimana Flask dipergunakan untuk pengembangan aplikasi real world: Pythonthusiast.com |  
